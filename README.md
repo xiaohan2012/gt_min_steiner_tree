@@ -2,6 +2,11 @@
 
 minimum steiner tree algorithm for `graph_tool`
 
+# technical details
+
+- for undirected and unweighted graph
+- algorithm based on metric closure
+
 # usage
 
     from minimum_steiner_tree import min_steiner_tree
